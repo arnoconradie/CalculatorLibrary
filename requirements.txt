@@ -23,7 +23,7 @@ cloudpickle==1.4.1
 colorama==0.4.3
 configparser==4.0.2
 coverage==5.1
-cryptography==2.8
+cryptography==3.2
 cx-Oracle==7.3.0
 dash==1.12.0
 dash-bootstrap-components==0.10.2
