@@ -94,7 +94,7 @@ requests==2.23.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 rope==0.16.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.3.3
 six==1.15.0
 snowflake-connector-python==2.2.7
