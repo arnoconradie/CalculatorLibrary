@@ -104,7 +104,7 @@ tabulate==0.8.7
 toolz==0.10.0
 tornado==6.0.4
 typing-extensions==3.7.4.2
-urllib3==1.25.9
+urllib3==1.26.5
 vaex-astro==0.7.0
 vaex-core==2.0.2
 vaex-server==0.3.1
