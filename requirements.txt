@@ -52,7 +52,7 @@ itsdangerous==1.1.0
 jdcal==1.4.1
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib==0.14.1
+joblib==1.2.0
 lazy-object-proxy==1.4.3
 llvmlite==0.32.1
 Markdown==3.2.2
